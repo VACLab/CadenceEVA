@@ -1,5 +1,5 @@
 # CadenceEVA
-<img src="https://raw.githubusercontent.com/VACLab/CadenceEVA/master/web/img/cadence_logo_sm.svg?sanitize=true" width=100 alight="left">Cadence is a visual analytics platform for event sequence analysis.  It includes a variety of advanced capabilities designed to support high-dimensional datasets including hierarchical aggreation and selection bias monitoring.  
+<img src="https://raw.githubusercontent.com/VACLab/CadenceEVA/master/web/img/cadence_logo_sm.svg?sanitize=true" width=70 align="left">Cadence is a visual analytics platform for event sequence analysis.  It includes a variety of advanced capabilities designed to support high-dimensional datasets including hierarchical aggreation and selection bias monitoring.  
 
 ## Open Source License
 
