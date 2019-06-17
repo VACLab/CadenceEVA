@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Testing file for vis controls.</title>
+
+    <link rel="stylesheet" href="/js/dojo/themes/flat/flat.css">
+    <script type="text/javascript" src="/js/d3/d3.min.js"></script>
+    <script type="text/javascript" src="/js/d3-tip.js"></script>
+    <script>
+        dojoConfig = {
+            async: true,
+            parseOnLoad: true,
+            paths: {
+                cadence: "/js/cadence",
+                vaclab: "/js/vaclab"
+            }
+        }
+    </script>
+    <script data-dojo-config="async:true" src="/js/dojo/dojo/dojo.js"></script>
+</head>
+<body>
+<div id="testcontainer"></div>
+<script>
+require(['cadence/vis/controls/AdjustableLinearScale'], function(AdjustableLinearScale) {
+    let slider = new AdjustableLinearScale("testcontainer", 70, 15, 8);
+    slider.on("update", function(min, max) {
+        console.log("New slider value range: [" + min + "," + max + "]");
+    })
+});
+</script>
+</body>
+</html>

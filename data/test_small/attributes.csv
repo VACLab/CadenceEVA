@@ -1,0 +1,10 @@
+id,variable,value,type
+1223,gender,M,string
+2132,gender,F,string
+3132,gender,M,string
+1223,age,56,int
+2132,age,61,int
+3132,age,71,int
+1223,DOB,2001-09-23 00:00:00,date
+2132,DOB,1990-01-20 00:00:00,date
+3132,DOB,2011-04-23 00:00:00,date

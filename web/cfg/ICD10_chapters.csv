@@ -1,0 +1,307 @@
+Chapter,Block,Title
+I,A00-B99,Certain infectious and parasitic diseases
+I.1,A00-A79,"Bacterial infections, and other intestinal infectious diseases, and STDs"
+I.1.1,A00-A09,Intestinal infectious diseases
+I.1.2,A15-A19,Tuberculosis
+I.1.3,A20-A28,Certain zoonotic bacterial diseases
+I.1.4,A30-A49,Other bacterial diseases
+I.1.5,A50-A64,Infections with a predominantly sexual mode of transmission
+I.1.6,A65-A69,Other spirochaetal diseases
+I.1.7,A70-A74,Other diseases caused by chlamydiae
+I.1.8,A75-A79,Rickettsioses
+I.2,A80-B34,Viral infections
+I.2.1,A80-A89,Viral infections of the central nervous system
+I.2.2,A90-A99,Arthropod-borne viral fevers and viral haemorrhagic fevers
+I.2.3,B00-B09,Viral infections characterized by skin and mucous membrane lesions
+I.2.4,B15-B19,Viral hepatitis
+I.2.5,B20-B24,Human immunodeficiency virus (HIV) disease
+I.2.6,B25-B34,Other viral diseases
+I.3,B35-B89,"Infections caused by fungi, protozoans, worms, and infestations"
+I.3.1,B35-B49,Mycoses
+I.3.2,B50-B64,Protozoal diseases
+I.3.3,B65-B83,Helminthiases
+I.3.4,B85-B89,"Pediculosis, acariasis and other infestations"
+I.4,B90-B99,"Sequelae, and diseases classified elsewhere"
+I.4.1,B90-B94,Sequelae of infectious and parasitic diseases
+I.4.2,B95-B97,"Bacterial, viral and other infectious agents"
+I.4.3,B99,Other infectious diseases
+II,C00-D49,Neoplasms
+II.1,C00-D49,Neoplasms
+II.1.1,C00-C14,"Malignant neoplasms, lip, oral cavity and pharynx"
+II.1.10,C69-C72,"Malignant neoplasms, eye, brain and central nervous system"
+II.1.11,C73-C75,"Malignant neoplasms, endocrine glands and related structures"
+II.1.12,C76-C80,"Malignant neoplasms, secondary and ill-defined"
+II.1.13,C81-C96,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+II.1.14,C97,Malignant neoplasms of independent (primary) multiple sites
+II.1.15,D00-D09,In situ neoplasms
+II.1.16,D10-D36,Benign neoplasms
+II.1.17,D37-D48,Neoplasms of uncertain or unknown behaviour
+II.1.2,C15-C26,"Malignant neoplasms, digestive organs"
+II.1.3,C30-C39,"Malignant neoplasms, respiratory system and intrathoracic organs"
+II.1.4,C40-C41,"Malignant neoplasms, bone and articular cartilage"
+II.1.5,C43-C44,"Malignant neoplasms, skin"
+II.1.6,C45-C49,"Malignant neoplasms, connective and soft tissue"
+II.1.7,C50-C58,"Malignant neoplasms, breast and female genital organs"
+II.1.8,C60-C63,Malignant neoplasms of male genital organs
+II.1.9,C64-C68,"Malignant neoplasms, urinary organs"
+III,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+III.1,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+III.1.1,D50-D53,Nutritional anemias
+III.1.2,D55-D59,Haemolytic anaemias
+III.1.3,D60-D64,Aplastic and other anaemias
+III.1.4,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+III.1.5,D70-D77,Other diseases of blood and blood-forming organs
+III.1.6,D80-D89,Certain disorders involving the immune mechanism
+IV,E00-E90,"Endocrine, nutritional and metabolic diseases"
+IV.1,E00-E35,Endocrine diseases
+IV.1.1,E00-E07,Thyroid gland / Thyroid hormone
+IV.1.2,E10-E16,"Pancreas / Insulin, glucagon"
+IV.1.2.1,E10-E14,Diabetes mellitus
+IV.1.2.2,E15-E16,Other disorders of glucose regulation and pancreatic internal secretion
+IV.1.3,E20-E21,Parathyroid gland / PTH
+IV.1.4,E22-E23,"Pituitary gland / ADH, oxytocin, GH, ACTH, TSH, LH, FSH, prolactin"
+IV.1.5,E24-E27,"Adrenal gland / Aldosterone, cortisol, epinephrine, norepinephrine"
+IV.1.6,E28-E30,"Gonads / Estrogen, androgens, testosterone, etc."
+IV.1.7,E31-E35,Other
+IV.2,E40-E68,Nutritional diseases
+IV.2.1,E40-E46,Malnutrition
+IV.2.2,E50-E64,Other nutritional deficiencies
+IV.2.3,E65-E68,Obesity and other hyperalimentation
+IV.3,E70-E90,Metabolic diseases
+IV.3.1,E70-E78,"Metabolic disorders of proteins, fats, and carbohydrates"
+IV.3.1.1,E70-E72,Amino-acids
+IV.3.1.2,E73-E74,Carbohydrates
+IV.3.1.3,E75,Lipids
+IV.3.1.4,E76-E78,Combinations
+IV.3.2,E79-E90,Other metabolic disorders
+IX,I00-I99,Diseases of the circulatory system
+IX.1,I00-I99,Diseases of the circulatory system
+IX.1.1,I00-I02,Acute rheumatic fever
+IX.1.10,I95-I99,Other and unspecified disorders of the circulatory system
+IX.1.2,I05-I09,Chronic rheumatic heart diseases
+IX.1.3,I10-I15,Hypertensive diseases
+IX.1.4,I20-I25,Ischemic heart diseases
+IX.1.5,I26-I28,Pulmonary heart disease and diseases of pulmonary circulation
+IX.1.6,I30-I52,Other forms of heart disease
+IX.1.6.1,I30-I52,Pericardium
+IX.1.6.2,I30-I52,Endocardium (including heart valves)
+IX.1.6.3,I30-I52,Myocardium / cardiomyopathy
+IX.1.6.4,I30-I52,Other
+IX.1.7,I60-I69,Cerebrovascular diseases
+IX.1.8,I70-I79,"Diseases of arteries, arterioles and capillaries"
+IX.1.9,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+V,F00-F99,Mental and behavioural disorders
+V.1,F00-F99,Mental and behavioural disorders
+V.1.1,F00-F09,"Organic, including symptomatic, mental disorders"
+V.1.10,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+V.1.11,F99,Unspecified mental disorder
+V.1.2,F10-F19,Mental and behavioural disorders due to psychoactive substance use
+V.1.3,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+V.1.4,F30-F39,Mood (affective) disorders
+V.1.5,F40-F48,"Neurotic, stress-related and somatoform disorders"
+V.1.6,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+V.1.7,F60-F69,Disorders of adult personality and behaviour
+V.1.8,F70-F79,Mental retardation
+V.1.9,F80-F89,Disorders of psychological development
+VI,G00-G99,Diseases of the nervous system
+VI.1,G00-G99,Diseases of the nervous system
+VI.1.1,G00-G09,Inflammatory diseases of the central nervous system
+VI.1.10,G80-G83,Cerebral palsy and other paralytic syndromes
+VI.1.11,G90-G99,Other disorders of the nervous system
+VI.1.2,G10-G13,Systemic atrophies primarily affecting the central nervous system
+VI.1.3,G20-G26,Extrapyramidal and movement disorders
+VI.1.4,G30-G32,Other degenerative diseases of the nervous system
+VI.1.5,G35-G37,Demyelinating diseases of the central nervous system
+VI.1.6,G40-G47,Episodic and paroxysmal disorders
+VI.1.6.1,G40-G47,Epilepsy
+VI.1.6.2,G40-G47,Headaches
+VI.1.6.3,G40-G47,Cerebrovascular
+VI.1.6.4,G40-G47,Sleep disorders
+VI.1.7,G50-G59,"Nerve, nerve root and plexus disorders"
+VI.1.8,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system
+VI.1.9,G70-G73,Diseases of myoneural junction and muscle
+VII,H00-H59,Diseases of the eye and adnexa
+VII.1,H00-H59,Diseases of the eye and adnexa
+VII.1.1,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+VII.1.10,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+VII.1.11,H53-H54,Visual disturbances and blindness
+VII.1.12,H55-H59,Other disorders of eye and adnexa
+VII.1.2,H10-H13,Disorders of conjunctiva
+VII.1.3,H15-H19,Disorders of sclera and cornea
+VII.1.4,H20-H22,Disorders of iris and ciliary body
+VII.1.5,H25-H28,Disorders of lens
+VII.1.6,H30-H36,Disorders of choroid and retina
+VII.1.7,H40-H42,Glaucoma
+VII.1.8,H43-H45,Disorders of vitreous body and globe
+VII.1.9,H46-H48,Disorders of optic nerve and visual pathways
+VIII,H60-H99,Diseases of the ear and mastoid process
+VIII.1,H60-H99,Diseases of the ear and mastoid process
+VIII.1.1,H60-H62,Diseases of external ear
+VIII.1.2,H65-H75,Diseases of middle ear and mastoid
+VIII.1.3,H80-H83,Diseases of inner ear
+VIII.1.4,H90-H95,Other disorders of ear
+X,J00-J99,Diseases of the respiratory system
+X.1,J00-J99,Diseases of the respiratory system
+X.1.1,J00-J06,Acute upper respiratory infections
+X.1.10,J95-J99,Other diseases of the respiratory system
+X.1.2,J09-J18,Influenza and Pneumonia
+X.1.3,J20-J22,Other acute lower respiratory infections
+X.1.4,J30-J39,Other diseases of upper respiratory tract
+X.1.5,J40-J47,Chronic lower respiratory diseases
+X.1.6,J60-J70,Lung diseases due to external agents
+X.1.7,J80-J84,Other respiratory diseases principally affecting the interstitium
+X.1.8,J85-J86,Suppurative and necrotic conditions of lower respiratory tract
+X.1.9,J90-J94,Other diseases of pleura
+XI,K00-K95,Diseases of the digestive system
+XI.1,K00-K95,Diseases of the digestive system
+XI.1.1,K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+XI.1.2,K20-K31,"Diseases of oesophagus, stomach and duodenum"
+XI.1.3,K35-K38,Diseases of appendix
+XI.1.4,K50-K52,Noninfective enteritis and colitis
+XI.1.5,K55-K63,Other diseases of intestines
+XI.1.6,K65-K67,Diseases of peritoneum
+XI.1.7,K70-K77,Diseases of liver
+XI.1.8,K80-K87,"Disorders of gallbladder, biliary tract and pancreas"
+XI.1.9,K90-K95,Other diseases of the digestive system
+XII,L00-L99,Diseases of the skin and subcutaneous tissue
+XII.1,L00-L99,Diseases of the skin and subcutaneous tissue
+XII.1.1,L00-L08,Infections of the skin and subcutaneous tissue
+XII.1.2,L10-L14,Bullous disorders
+XII.1.3,L20-L30,Dermatitis and eczema
+XII.1.4,L40-L45,Papulosquamous disorders
+XII.1.5,L50-L54,Urticaria and erythema
+XII.1.6,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue
+XII.1.7,L60-L75,Disorders of skin appendages
+XII.1.8,L80-L99,Other disorders of the skin and subcutaneous tissue
+XIII,M00-M99,Diseases of the musculoskeletal system and connective tissue
+XIII.1,M00-M99,Diseases of the musculoskeletal system and connective tissue
+XIII.1.1,M00-M25,Arthropathies
+XIII.1.1.1,M00-M03,Infectious arthropathies
+XIII.1.1.2,M05-M14,Inflammatory polyarthropathies
+XIII.1.1.3,M15-M19,Arthrosis
+XIII.1.1.4,M20-M25,Other joint disorders
+XIII.1.2,M30-M36,Systemic connective tissue disorders
+XIII.1.3,M40-M54,Dorsopathies
+XIII.1.3.1,M40-M43,Deforming dorsopathies
+XIII.1.3.2,M45-M49,Spondylopathies
+XIII.1.3.3,M50-M54,Other dorsopathies
+XIII.1.4,M60-M79,Soft tissue disorders
+XIII.1.4.1,M60-M63,Disorders of muscles
+XIII.1.4.2,M65-M68,Disorders of synovium and tendon
+XIII.1.4.3,M70-M79,Other soft tissue disorders
+XIII.1.5,M80-M90,Osteopathies
+XIII.1.6,M91-M94,Chondropathies
+XIII.1.7,M95-M99,Other disorders of the musculoskeletal system and connective tissue
+XIV,N00-N99,Diseases of the genitourinary system
+XIV.1,N00-N39,Diseases of the genitourinary system: urinary system
+XIV.1.1,N00-N08,Glomerular diseases
+XIV.1.2,N10-N16,Renal tubulo-interstitial diseases
+XIV.1.3,N17-N19,Renal failure
+XIV.1.4,N20-N23,Urolithiasis
+XIV.1.5,N25-N29,Other disorders of kidney and ureter
+XIV.1.6,N30-N39,Other diseases of urinary system
+XIV.2,N40-N99,"Diseases of the genitourinary system: pelvis, genitals and breasts"
+XIV.2.1,N40-N51,Diseases of male genital organs
+XIV.2.2,N60-N64,Disorders of breast
+XIV.2.3,N70-N77,Inflammatory diseases of female pelvic organs
+XIV.2.4,N80-N98,Noninflammatory disorders of female genital tract
+XIV.2.5,N99,Other disorders of genitourinary tract
+XIX,S00-T98,"Injury, poisoning and certain other consequences of external causes"
+XIX.1,S00-T14,Injury
+XIX.1.1,S00-S09,Head
+XIX.1.10,S90-S99,Ankle and foot
+XIX.1.11,T00-T07,Involving multiple body regions
+XIX.1.12,T08-T14,"Unspecified parts of trunk, limb or body region"
+XIX.1.2,S10-S19,Neck
+XIX.1.3,S20-S29,Thorax
+XIX.1.4,S30-S39,"Abdomen, lower back, lumbar spine and pelvis"
+XIX.1.5,S40-S49,Shoulder and upper arm
+XIX.1.6,S50-S59,Elbow and forearm
+XIX.1.7,S60-S69,Wrist and hand
+XIX.1.8,S70-S79,Hip and thigh
+XIX.1.9,S80-S89,Knee and lower leg
+XIX.2,T15-T98,Poisoning and certain other consequences of external causes
+XIX.2.1,T15-T19,Effects of foreign body entering through natural orifice
+XIX.2.2,T20-T32,Burns and corrosions
+XIX.2.3,T33-T35,Frostbite
+XIX.2.4,T36-T50,"Poisoning by drugs, medicaments and biological substances"
+XIX.2.5,T51-T65,Toxic effects of substances chiefly nonmedicinal as to source
+XIX.2.6,T66-T78,Other and unspecified effects of external causes
+XIX.2.7,T79,Certain early complications of trauma
+XIX.2.8,T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+XIX.2.9,T90-T98,"Sequelae of injuries, of Poisoning and of other consequences of external causes"
+XV,O00-O99,"Pregnancy, childbirth and the puerperium"
+XV.1,O00-O99,"Pregnancy, childbirth and the puerperium"
+XV.1.1,O00-O08,Pregnancy with abortive outcome
+XV.1.2,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+XV.1.3,O20-O29,Other maternal disorders predominantly related to pregnancy
+XV.1.4,O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems
+XV.1.5,O60-O75,Complications of labour and delivery
+XV.1.6,O80-O84,Delivery
+XV.1.7,O85-O92,Complications predominantly related to the puerperium
+XV.1.8,O95-O99,"Other obstetric conditions, not elsewhere classified"
+XVI,P00-P96,Certain conditions originating in the perinatal period
+XVI.1,P00-P96,Certain conditions originating in the perinatal period
+XVI.1.1,P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+XVI.1.10,P90-P96,Other disorders originating in the perinatal period
+XVI.1.2,P05-P08,Disorders related to length of gestation and fetal growth
+XVI.1.3,P10-P15,Birth trauma
+XVI.1.4,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+XVI.1.5,P35-P39,Infections specific to the perinatal period
+XVI.1.6,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+XVI.1.7,P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn
+XVI.1.8,P75-P78,Digestive system disorders of fetus and newborn
+XVI.1.9,P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn
+XVII,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities"
+XVII.1,Q00-Q89,Congenital malformations and deformations
+XVII.1.1,Q00-Q07,Nervous system
+XVII.1.2,Q10-Q18,"Eye, ear, face and neck"
+XVII.1.3,Q20-Q28,Circulatory system
+XVII.1.4,Q30-Q34,Respiratory system
+XVII.1.5,Q35-Q45,Digestive system
+XVII.1.6,Q50-Q56,Genital organs
+XVII.1.7,Q60-Q64,Urinary system
+XVII.1.8,Q65-Q79,Musculoskeletal system
+XVII.1.9,Q80-Q89,Other
+XVII.2,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+XVIII,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+XVIII.1,R00-R69,Symptoms and signs
+XVIII.1.1,R00-R09,Circulatory and respiratory systems
+XVIII.1.2,R10-R19,Digestive system and abdomen
+XVIII.1.3,R20-R23,Skin and subcutaneous tissue
+XVIII.1.4,R25-R29,Nervous and musculoskeletal systems
+XVIII.1.5,R30-R39,Urinary system
+XVIII.1.6,R40-R46,"Cognition, perception, emotional state and behaviour"
+XVIII.1.7,R47-R49,Speech and voice
+XVIII.1.8,R50-R69,General symptoms and signs
+XVIII.2,R70-R94,"Abnormal clinical and laboratory findings, not elsewhere classified"
+XVIII.2.1,R70-R79,"On examination of blood, without diagnosis"
+XVIII.2.2,R80-R82,"On examination of urine, without diagnosis"
+XVIII.2.3,R83-R89,"On examination of other body fluids, substances and tissues, without diagnosis"
+XVIII.2.4,R90-R94,"On diagnostic imaging and in function studies, without diagnosis"
+XVIII.3,R95-R99,Ill-defined and unknown causes of mortality
+XX,V00-Y99,External causes of morbidity and mortality
+XX.1,V00-Y99,External causes of morbidity and mortality
+XX.1.1,V00-X59,Accidents
+XX.1.2,X60-X84,Intentional self-harm
+XX.1.3,X85-Y09,Assault
+XX.1.4,Y10-Y34,Event of undetermined intent
+XX.1.5,Y35-Y36,Legal intervention and operations of war
+XX.1.6,Y40-Y84,Complications of medical and surgical care
+XX.1.6.1,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+XX.1.6.2,Y60-Y69,Misadventures to patients during surgical and medical care
+XX.1.6.3,Y70-Y82,Medical devices associated with adverse incidents in diagnostic and therapeutic use
+XX.1.6.4,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+XX.1.7,Y85-Y89,Sequelae of external causes of morbidity and mortality
+XX.1.8,Y90-Y99,Supplementary factors related to causes of morbidity and mortality classified elsewhere
+XXI,Z00-Z99,Factors influencing health status and contact with health services
+XXI.1,Z00-Z13,Persons encountering health services for examination and investigation
+XXI.2,Z20-Z29,Persons with potential health hazards related to communicable diseases
+XXI.3,Z30-Z39,Persons encountering health services in circumstances related to reproduction
+XXI.4,Z40-Z54,Persons encountering health services for specific procedures and health care
+XXI.5,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+XXI.6,Z70-Z76,Persons encountering health services in other circumstances
+XXI.7,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+XXII,U00-U99,Codes for special purposes
+XXII.1,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use
+XXII.2,U82-U85,Resistance to antimicrobial and antineoplastic drugs

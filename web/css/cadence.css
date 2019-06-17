@@ -1,0 +1,384 @@
+body, html {
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+    font-size:10pt;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    border: 0;
+    background:#ffffff;
+    color: #000000;
+    font-size:18pt;
+    font-weight: bold;
+    width: 100%;
+/*    background-image: -webkit-gradient(linear, left top, left bottom, from(#cccccc), to(#dddddd));
+    background-image: -webkit-linear-gradient(top, #cccccc, #dddddd);
+    background-image:    -moz-linear-gradient(top, #cccccc, #dddddd);
+    background-image:     -ms-linear-gradient(top, #cccccc, #dddddd);
+    background-image:      -o-linear-gradient(top, #cccccc, #dddddd);
+    background-image:         linear-gradient(to bottom, #cccccc, #dddddd);*/
+}
+
+/*tool tip style*/
+
+.d3-tip {
+    line-height: 1;
+    padding: 6px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 4px;
+    font-size: 10px;
+    pointer-events: none!important;;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+    pointer-events: none!important;;
+}
+
+/* Style northward tooltips specifically */
+.d3-tip.n:after {
+    margin: -2px 0 0 0;
+    top: 100%;
+    left: 0;
+    pointer-events: none!important;;
+}
+
+.d3-tip table {
+    border-collapse: collapse;
+    color: #fff;
+    font-size: 9px;
+    pointer-events: none!important;;
+}
+.d3-tip td {
+    padding: 0.2em 0;
+    pointer-events: none!important;;
+}
+
+.d3-slider-tip {
+    background-color: transparent;
+    font-size: 8px;
+    color: #000;
+}
+
+.constraint-box {
+    float: left;
+    border: 1px solid black;
+    font-size: 8px;
+    margin-right: 2px;
+    padding: 3px;
+    background: #dddddd;
+}
+
+
+/*
+.d3-tip {
+    font-family: "Open Sans", serif;
+    padding: 8px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 3px;
+    color: #fff;
+}
+.d3-tip .tip-title {
+    border-bottom: 2px solid #fff;
+}
+.d3-tip .tip-subtitle {
+    border-bottom: 1px solid #fff;
+}
+.d3-tip .tip-desc {
+    padding-right: 5px;
+}
+*/
+/* Creates a small triangle extender for the tooltip */
+/*
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+ */
+/* Style northward tooltips differently */
+/*
+.n-tip.n:after {
+    margin: -3px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+.e-tip:after{
+    transform: rotate(90deg);
+}
+.e-tip.e:after {
+    margin:0 -2px;
+    top: 50%;
+    left: -50%;
+}
+*/
+
+#sidebar {
+    width: 200px;
+    padding: 0px;
+}
+
+#sidebar-wide {
+    width: 300px;
+    padding: 0px;
+}
+
+.milestone {
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.pathway {
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.timeline_highlight {
+    stroke: #2196f3;
+    stroke-width: 3px;
+}
+
+table {
+    font-size:10pt;
+    margin: 3px;
+    padding: 0px;
+}
+
+.invisible {
+    padding: 0px;
+    margin: 0px;
+}
+
+.hidden {
+    visibility: hidden;
+    height: 0px;
+    width: 0px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.left-pad {
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.vocab-box {
+    cursor: pointer;
+    width: 100%;
+    padding: 2px;
+    background-color: #ffffff;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.vocab-box:hover {
+    background-color: #dddddd;
+}
+
+.tree-symbol {
+    vertical-align: middle;
+    margin-bottom: 3px;
+    height:16px;
+    width:16px;
+}
+
+.query-item {
+    background-color: #ffffff;
+    margin: 8px;
+    padding: 4px;
+}
+
+.vis-title {
+    margin: 0;
+    padding: 0.5em;
+    background: #2196f3;
+    color: #fff;
+    border-radius: 3px;
+    text-align: center;
+    font-weight: 400;
+}
+#query-flow, #event-before, #event-after, #dem-dist, #dist-info, #outcome-dist, #gender-dist, #scatter-between-chart {
+    border:0;
+    padding:0;
+    margin:0;
+}
+#event-search, #event-dist {
+    border:0;
+    margin:0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+.highlight-events {
+    fill-opacity: 0.8;
+    fill: #E4A552;
+    border: 1px solid #845415 !important;
+    background: #e4a552 !important;
+}
+.event-table {
+    border-bottom: 1px solid #2196f3;
+    font-size: 0.8em;
+    margin: 0;
+}
+
+/* Query structure build up */
+.then-flex, .then-code-flex, .log-flex {
+    display: flex;
+    z-index: 100;
+}
+.then-flex, .log-code-flex {
+    flex-direction: column;
+    align-items: center;
+    z-index: 100;
+}
+.then-code-flex, .log-flex {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+.then-label {
+    font-weight: 800;
+    color: black;
+    z-index: 100;
+}
+.event-label {
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 1.3em;
+    padding: 0.1em 0.2em;
+    margin: 0.2em 0;
+    z-index: 100;
+}
+.datatype {
+    background: #aed1ea;
+    border-color: #1a4665;
+}
+.datatype:hover {
+    background: #286c9b;
+    cursor: pointer;
+}
+.arrow {
+    text-align: center;
+    font-size: 3em;
+    font-weight: 600;
+    z-index: 100;
+}
+.block {
+    position:relative;
+    padding: 0.6em;
+    flex: 1;
+    z-index: 100;
+}
+.background {
+    width: 100%;
+    height: 100%;
+    background: #808080;
+    opacity: 0.5;
+    position:absolute;
+    left: 0;
+    top: 0;
+    border: 0.5px solid #f5f5dc;
+}
+.log-op {
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 0.8em;
+    margin: 0.4em;
+    background: #f5f5dc;
+    z-index: 100;
+}
+/* Query information panel */
+.cohort-title {
+    color: #2196f3;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: -15px;
+}
+.info-container p, .info-wrapper p, .info-container li{
+    font-family: "Open Sans", serif;
+    font-size: 0.8em;
+}
+.info-container {
+    margin-top: 5px;
+}
+.info-container p, .info-wrapper p{
+    margin: 0.8em 0;
+}
+.info-wrapper {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 0.3em 0.5em;
+}
+.info-wrapper ul {
+    margin: 10px 0 0 10px;
+    padding-left: 10px;
+    overflow-wrap: break-word;
+}
+.info-wrapper h5 {
+    color:#2196f3;
+    margin: 0.8em 0 0 0;
+}
+.info-icon {
+    width: 25px;
+    margin-bottom: -10px;
+    background: #fff;
+    margin-left: 10px;
+}
+.legend1, .legend2 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 0.5em;
+}
+.legend1 {
+    background: #153851;
+}
+.legend2 {
+    background: #E4A552;
+}
+
+.bar_block:hover {
+    fill:#2196f3;
+}
+
+.cad-histbar {
+    background-color: #333333;
+}
+
+.cad-histbar:hover {
+    background-color:#2196f3;
+}
+
+.axistext {
+    font-size: 10px;
+}
+
+.titletext {
+    font-size: 12px;
+    font-weight: normal;
+}
