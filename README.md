@@ -1,5 +1,5 @@
 # CadenceEVA
-<img src="https://raw.githubusercontent.com/VACLab/CadenceEVA/master/web/img/cadence_logo_sm.svg?sanitize=true" width=70 align="left">Cadence is a visual analytics platform for event sequence analysis.  It includes a variety of advanced capabilities designed to support high-dimensional datasets including hierarchical aggreation and selection bias monitoring.  
+<img src="https://raw.githubusercontent.com/VACLab/CadenceEVA/master/web/img/cadence_logo_sm.svg?sanitize=true" width=70 align="left">Cadence is a visual analytics platform for event sequence analysis.  It includes a variety of advanced capabilities designed to support high-dimensional datasets including hierarchical aggregation and selection bias monitoring.  
 
 ## Open Source License
 
@@ -9,7 +9,7 @@ The software in this repository is made available under the GNU General Public L
 
 This software operates requires Java and the Apache Tomcat web application server.  The software has been developed using Java OpenJDK v12 and Apache Tomcat v9.
 
-Users of the Cadence system also need a modern web browser. Testing has been limited to the Chrome web browser, but there are no known issues with other modern browers at this time.  If you observe problems due to javascript differences between browsers, please open an issue to report your findings.  However, the software is provided "as is" with no support.
+Users of the Cadence system also need a modern web browser. Testing has been limited to the Chrome web browser, but there are no known issues with other modern browsers at this time.  If you observe problems due to JavaScript differences between browsers, please open an issue to report your findings.  However, the software is provided "as is" with no support.
 
 ## Recommended Reading
 
