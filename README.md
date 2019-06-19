@@ -13,7 +13,10 @@ Users of the Cadence system also need a modern web browser. Testing has been lim
 
 ## Recommended Reading
 
-Links to papers describing the concepts behind this software are coming soon.
+Key aspects of the Cadence visual analytics platform are described in the following papers, both of which are undergoing peer review prior to publication:
+* http://arxiv.org/abs/1906.07625
+* http://arxiv.org/abs/1906.07617
+
 
 ## Interested in Collaborating?
 
