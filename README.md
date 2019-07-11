@@ -25,6 +25,6 @@ Please reach out to talk about your ideas.  We're happy to work with collaborati
 
 ## Acknowledgements
 
-All Cadence software was developed at the [Visual Analytics and Communication Lab (VACLab)](http://vaclab.web.unc.edu/) at the [University of North Carolina at Chapel Hill]().  The VACLab is affiliated with the [School of Information and Library Science](http://sils.unc.edu/ and the [Carolina Health Informatics Program](http://chip.unc.edu/). 
+All Cadence software was developed at the [Visual Analytics and Communication Lab (VACLab)](http://vaclab.web.unc.edu/) at the [University of North Carolina at Chapel Hill]().  The VACLab is affiliated with the [School of Information and Library Science](http://sils.unc.edu/) and the [Carolina Health Informatics Program](http://chip.unc.edu/). 
 
 This project supported in part by the National Science Foundation under Grant No. 1704018.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  The official website for the NSF-funded project [can be found here](http://vaclab.web.unc.edu/contextual-visualization/).
