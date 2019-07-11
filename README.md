@@ -13,10 +13,9 @@ Users of the Cadence system also need a modern web browser. Testing has been lim
 
 ## Recommended Reading
 
-Key aspects of the Cadence visual analytics platform are described in the following papers, both of which are undergoing peer review prior to publication:
+Key aspects of the Cadence visual analytics platform are described in the following papers, both of which have been accepted for in IEEE TVCG in January 2020 and will be presented at [IEEE VIS](http://ieeevis.org/) as part of the VAST program:
 * http://arxiv.org/abs/1906.07625
 * http://arxiv.org/abs/1906.07617
-
 
 ## Interested in Collaborating?
 
